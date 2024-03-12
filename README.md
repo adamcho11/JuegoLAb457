@@ -1,3 +1,4 @@
 # Piedra papel o tijeras
-lógica básica
-cualquiera sugerencias se agradece para mejorar
+lógica básica de la implementacion del juego.
+
+*LAB_SIS457 
